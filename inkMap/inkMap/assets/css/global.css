@@ -1,0 +1,129 @@
+﻿body {
+    background-image: url('../images/background3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* https://stackoverflow.com/questions/49288751/how-can-i-make-my-anchor-tags-move-to-the-right-side-of-navbar */
+.collapse.navbar-collapse {
+    align-items: flex-end;
+    flex-direction: column-reverse;
+}
+
+nav{
+    background-color: black;
+    color:white;
+    margin:0;
+}
+
+    nav > a, .navbar-nav >a{
+        color: white;
+    }
+
+#createAccount {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+    background-color: #b8aa9d;
+}
+
+#registerArtist {
+    background-color: #808080;
+    color: white;
+}
+
+#signIn {
+    background-color: #404040;
+    color: white;
+}
+
+#loginOptions {
+    margin-top: 10%;
+    margin-left:2%;
+}
+
+.homePageTitle {
+    font-family: 'Brush Script MT';
+    font-size: 55px;
+    font-weight: bold;
+    color: #b8aa9d;
+}
+
+#signInModule{
+    display: none;
+    flex: 0 0 60%;
+    height:75%;
+    background-color:black;
+}
+
+#signInContent{
+    margin: 10%;
+    padding:2%;
+    background-color:white;
+}
+
+#createAccountTitle, #createArtistTitle {
+    display:none;
+}
+
+#createAccountModule,#createArtistModule {
+    padding-bottom: 3%;
+    padding-top: 3%;
+    margin-left: 10%;
+    width: 80%;
+    background-color: white;
+    display: none;
+}
+
+#verificationNote {
+    background-color: white;
+    width: 60%;
+    height: 350px;
+    padding:2%;
+    border: 5px double #b8aa9d;
+    margin-left:20%;
+    margin-top: 10%;
+}
+
+.btnredirect {
+    color: white;
+    background-color: #b8aa9d;
+}
+
+.forms {
+    background-color: white;
+    width: 60%;
+    height: 350px;
+    padding: 2%;
+    border: 5px double #b8aa9d;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+.sidenav {
+    margin-top:3%;
+    height: 97%;
+    width: 20%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: black;
+    overflow-x: hidden;
+    padding-top: 20px;
+    text-align: center;
+    color:white;
+}
+
+    .sidenav a {
+        padding: 6px 8px 6px 16px;
+        text-decoration: none;
+        font-size: 16px;
+        color: white;
+        display: block;
+    }
+
+        .sidenav a:hover {
+            text-decoration:underline;
+            color: white;
+        }

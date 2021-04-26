@@ -1,0 +1,14 @@
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\bin\Release\netcoreapp2.1\InkMapAPI.deps.json
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\bin\Release\netcoreapp2.1\InkMapAPI.runtimeconfig.json
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\bin\Release\netcoreapp2.1\InkMapAPI.runtimeconfig.dev.json
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\bin\Release\netcoreapp2.1\InkMapAPI.dll
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\bin\Release\netcoreapp2.1\InkMapAPI.pdb
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\obj\Release\netcoreapp2.1\InkMapAPI.csprojAssemblyReference.cache
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\obj\Release\netcoreapp2.1\InkMapAPI.csproj.CoreCompileInputs.cache
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\obj\Release\netcoreapp2.1\InkMapAPI.RazorAssemblyInfo.cache
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\obj\Release\netcoreapp2.1\InkMapAPI.RazorAssemblyInfo.cs
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\obj\Release\netcoreapp2.1\InkMapAPI.AssemblyInfoInputs.cache
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\obj\Release\netcoreapp2.1\InkMapAPI.AssemblyInfo.cs
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\obj\Release\netcoreapp2.1\InkMapAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\obj\Release\netcoreapp2.1\InkMapAPI.dll
+C:\Users\Lakshmi\Desktop\InkMap\inkMap\InkMapAPI\obj\Release\netcoreapp2.1\InkMapAPI.pdb

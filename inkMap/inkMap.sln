@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inkMap", "inkMap\inkMap.csproj", "{2DA89418-24E5-491F-9877-8B80868F4015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPInkMapWebService", "SOAPInkMapWebService\SOAPInkMapWebService.csproj", "{7008B728-7510-4E2B-97CB-24BECC8276E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InkMapLibrary", "InkMapLibrary\InkMapLibrary.csproj", "{88E89437-0107-4AD3-A37B-6025D292D61D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InkMapAPI", "InkMapAPI\InkMapAPI.csproj", "{55CF2A06-41B0-4C3F-B954-EFE726046653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA89418-24E5-491F-9877-8B80868F4015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA89418-24E5-491F-9877-8B80868F4015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA89418-24E5-491F-9877-8B80868F4015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA89418-24E5-491F-9877-8B80868F4015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7008B728-7510-4E2B-97CB-24BECC8276E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7008B728-7510-4E2B-97CB-24BECC8276E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7008B728-7510-4E2B-97CB-24BECC8276E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7008B728-7510-4E2B-97CB-24BECC8276E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E89437-0107-4AD3-A37B-6025D292D61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E89437-0107-4AD3-A37B-6025D292D61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E89437-0107-4AD3-A37B-6025D292D61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E89437-0107-4AD3-A37B-6025D292D61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CF2A06-41B0-4C3F-B954-EFE726046653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CF2A06-41B0-4C3F-B954-EFE726046653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CF2A06-41B0-4C3F-B954-EFE726046653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CF2A06-41B0-4C3F-B954-EFE726046653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D375FE9F-4A5F-4CD3-9E22-5613ECD9910B}
+	EndGlobalSection
+EndGlobal
